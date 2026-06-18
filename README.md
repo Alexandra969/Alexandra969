@@ -11,5 +11,5 @@ Atualmente focada em aprender os fundamentos de TI, redes e segurança da inform
 Aprender administração de sistemas, redes de computadores, segurança defensiva e ferramentas de análise de vulnerabilidades.
 
 ---
-📫 Como me encontrar: https://www.linkedin.com/in/alexandra-amorim -da-silva-a86991408
+📫 Como me encontrar: https://www.linkedin.com/in/alexandra-amorim-da-silva-a86991408
 
