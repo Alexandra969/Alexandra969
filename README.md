@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou a Alexandra! 👋
 
-<!--
-**Alexandra969/Alexandra969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Iniciando a graduação em **Tecnologia em Gestão de Segurança e Defesa Cibernética**. 
+Atualmente focada em aprender os fundamentos de TI, redes e segurança da informação.
 
-Here are some ideas to get you started:
+## 🚀 Estudos Atuais
+- 🛡️ **Hacker do Bem** (Iniciativa de Segurança da Informação)
+- 🌐 **Cisco Networking Academy** (Conceitos de redes e tecnologia)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Objetivos
+Aprender administração de sistemas, redes de computadores, segurança defensiva e ferramentas de análise de vulnerabilidades.
+
+---
+📫 Como me encontrar: https://www.linkedin.com/in/alexandra-amorim -da-silva-a86991408
+
